@@ -206,7 +206,7 @@ h1{
 
 .logos img {
     width: 80px; /* Ajuste la taille de chaque logo */
-    height: auto; /* Garde les proportions */
+    height: 80px; /* Garde les proportions */
 }
 
 @keyframes defilement {
